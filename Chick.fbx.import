@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ui5v4i5o7l03"
-path="res://.godot/imported/Chick.fbx-ba1ca6d5e15eace971366e167e8885a2.scn"
+path="res://.godot/imported/Chick.fbx-0fbe68fb00f445dbf81588ae598b90e1.scn"
 
 [deps]
 
-source_file="res://art/Chick.fbx"
-dest_files=["res://.godot/imported/Chick.fbx-ba1ca6d5e15eace971366e167e8885a2.scn"]
+source_file="res://Chick.fbx"
+dest_files=["res://.godot/imported/Chick.fbx-0fbe68fb00f445dbf81588ae598b90e1.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://by6grg0xg38fk"
-path="res://.godot/imported/Goblin.fbx-13259fd9f33da187c753c888e71fc241.scn"
+path="res://.godot/imported/Goblin.fbx-8857a03ece2af6dddb351c6b97efebc7.scn"
 
 [deps]
 
-source_file="res://art/Goblin.fbx"
-dest_files=["res://.godot/imported/Goblin.fbx-13259fd9f33da187c753c888e71fc241.scn"]
+source_file="res://Goblin.fbx"
+dest_files=["res://.godot/imported/Goblin.fbx-8857a03ece2af6dddb351c6b97efebc7.scn"]
 
 [params]
 
